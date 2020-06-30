@@ -6,6 +6,7 @@ Also feel free to report the broken links in this page. <br>
 ## Books:
 - [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
 - [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648)
+- [The Zynq Book](http://www.zynqbook.com/)
 
 # Neural network related
 
