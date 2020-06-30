@@ -1,4 +1,4 @@
-# High Level Systhesis Resources
+# High Level Synthesis Resources
 A collection of URLs related to High Level Synthesis (HLS). <br>
 Please let me know interesting free or open source resources, which are not in the list. <br>
 Also feel free to report the dead links in this page. <br>
