@@ -8,6 +8,12 @@ Also feel free to report the broken links in this page. <br>
 - [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648)
 - [The Zynq Book](http://www.zynqbook.com/)
 
+## Papers:
+- [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf)
+
+## Interesting Github projects:
+- [gemm_hls](https://github.com/spcl/gemm_hls)
+
 # Neural network related
 
 ## Papers:
