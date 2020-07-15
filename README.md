@@ -16,14 +16,13 @@ Also feel free to report the broken links in this page. <br>
 
 # Neural network related
 
-## Papers:
-- [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf)
+## Papers [With code]:
+- [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
 
 ## Interesting Github projects:
 - [ZynqNet](https://github.com/dgschwend/zynqnet) 
 - [Guinness](https://github.com/HirokiNakahara/GUINNESS)
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN)
-- [SkyNet](https://github.com/TomG008/SkyNet)
 
 # License:
 ```
