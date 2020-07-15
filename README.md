@@ -1,7 +1,7 @@
 # High Level Synthesis Resources
 A collection of URLs related to High Level Synthesis (HLS). <br>
-Please let me know interesting free or open source resources, which are not in the list. <br>
-Also please feel free to report the broken links in this repository. <br>
+Please let me know the interesting open source projects, books, and papers, which are not in the list. <br>
+Also please feel free to report the broken URL links in this repository. <br>
 
 ## Books:
 - [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
