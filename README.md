@@ -17,7 +17,8 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 ## Interesting Github projects:
 - [ZynqNet](https://github.com/dgschwend/zynqnet): An FPGA-Accelerated Embedded Convolutional Neural Network
 - [GUINNESS](https://github.com/HirokiNakahara/GUINNESS): A GUI based binarized Neural NEtwork SyntheSizer toward an FPGA
-- [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board 
+- [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board
+- [FPGA_AI_Edge_Contest_2019](https://github.com/HirokiNakahara/FPGA_AI_Edge_Contest_2019): Sample scripts for FPGA-based AI Edge Contest 2019 
 
 ### Xilinx PYNQ projects:
 - [pp4fpgas-cn-hls](https://github.com/xupsh/pp4fpgas-cn-hls): HLS Project for pp4fpgas-cn running on Pynq-Z1/Z2 board
