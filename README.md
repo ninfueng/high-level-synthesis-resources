@@ -3,7 +3,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 
 ## Books:
 - [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
-- [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648) [[Code](https://github.com/KastnerRG/pp4fpgas)]
+- [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648) [[Chinese](https://github.com/xupsh/pp4fpgas-cn)] [[Code](https://github.com/KastnerRG/pp4fpgas)]
 - [The Zynq Book](http://www.zynqbook.com/)
 
 ## Papers:
