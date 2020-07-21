@@ -11,6 +11,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 - [hlslib: Software Engineering for Hardware Design](https://arxiv.org/pdf/1910.04436.pdf) [[Code](https://github.com/definelicht/hlslib)]
 
 # Neural network related
+Below is for HLS and neural network related resources.
 
 ## Papers:
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
