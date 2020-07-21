@@ -7,10 +7,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 - [The Zynq Book](http://www.zynqbook.com/)
 
 ## Papers:
-- [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf)
-
-## Interesting Github projects:
-- [gemm_hls](https://github.com/spcl/gemm_hls)
+- [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf) [[Code](https://github.com/spcl/gemm_hls)]
 
 # Neural network related
 
