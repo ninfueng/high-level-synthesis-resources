@@ -3,7 +3,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 
 ## Books:
 - [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
-- [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648)
+- [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648) [[Code](https://github.com/KastnerRG/pp4fpgas)]
 - [The Zynq Book](http://www.zynqbook.com/)
 
 ## Papers:
@@ -16,13 +16,11 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 
 ## Papers:
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
-- 
 
 ## Interesting Github projects:
 - [ZynqNet](https://github.com/dgschwend/zynqnet) 
 - [Guinness](https://github.com/HirokiNakahara/GUINNESS)
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN)
-- []()
 
 ### PYNQ projects:
 
