@@ -8,6 +8,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 
 ## Papers:
 - [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf) [[Code](https://github.com/spcl/gemm_hls)]
+- [hlslib: Software Engineering for Hardware Design](https://arxiv.org/pdf/1910.04436.pdf) [[Code](https://github.com/definelicht/hlslib)]
 
 # Neural network related
 
@@ -18,7 +19,8 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 - [ZynqNet](https://github.com/dgschwend/zynqnet): An FPGA-Accelerated Embedded Convolutional Neural Network
 - [GUINNESS](https://github.com/HirokiNakahara/GUINNESS): A <b>GUI</b> based binarized <b>N</b>eural <b>NE</b>twork <b>S</b>ynthe<b>S</b>izer toward an FPGA
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board
-- [FPGA_AI_Edge_Contest_2019](https://github.com/HirokiNakahara/FPGA_AI_Edge_Contest_2019): Sample scripts for FPGA-based AI Edge Contest 2019 
+- [FPGA_AI_Edge_Contest_2019](https://github.com/HirokiNakahara/FPGA_AI_Edge_Contest_2019): Sample scripts for FPGA-based AI Edge Contest 2019
+- [finn-hlslib](https://github.com/Xilinx/finn-hlslib): HLS library for hardware acceleration of Quantized Neural Network (QNN) using FINN.
 
 ### Xilinx PYNQ projects:
 - [pp4fpgas-cn-hls](https://github.com/xupsh/pp4fpgas-cn-hls): HLS Project for pp4fpgas-cn running on Pynq-Z1/Z2 board
