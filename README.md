@@ -15,7 +15,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
 
 ## Interesting Github projects:
-- [ZynqNet](https://github.com/dgschwend/zynqnet) An FPGA-Accelerated Embedded Convolutional Neural Network
+- [ZynqNet](https://github.com/dgschwend/zynqnet): An FPGA-Accelerated Embedded Convolutional Neural Network
 - [GUINNESS](https://github.com/HirokiNakahara/GUINNESS): A GUI based binarized Neural NEtwork SyntheSizer toward an FPGA
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board 
 
