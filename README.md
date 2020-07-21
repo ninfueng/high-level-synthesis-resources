@@ -1,5 +1,5 @@
 # High Level Synthesis Resources
-A collection of URLs related to High Level Synthesis (HLS). Please let me know the interesting open source projects, books, and papers, which are not in the list. Also please feel free to report the broken URL links in this repository. 
+A collection of URLs related to High Level Synthesis (HLS). Please let me know interesting open source projects, books, or papers, which are not included in this list. Also please feel free to report any broken URL links. 
 
 ## Books:
 - [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
@@ -14,13 +14,18 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know t
 
 # Neural network related
 
-## Papers [With code]:
+## Papers:
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
+- 
 
 ## Interesting Github projects:
 - [ZynqNet](https://github.com/dgschwend/zynqnet) 
 - [Guinness](https://github.com/HirokiNakahara/GUINNESS)
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN)
+- []()
+
+### PYNQ projects:
+
 
 # License:
 ```
