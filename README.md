@@ -1,5 +1,5 @@
 # High Level Synthesis Resources
-A collection of URLs related to High Level Synthesis (HLS). Please let me know interesting open source projects, books, or papers, which are not included in this list. Also please feel free to report any broken URL links. 
+A collection of URLs related to High Level Synthesis (HLS). Please let me know interesting open source projects, books, or papers, which are not included in this list. Also please feel free to report any broken URL links.
 
 ## Books:
 - [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
@@ -11,7 +11,7 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 - [hlslib: Software Engineering for Hardware Design](https://arxiv.org/pdf/1910.04436.pdf) [[Code](https://github.com/definelicht/hlslib)]
 
 # Neural network related
-Below is for HLS and neural network related resources.
+Below are sections for HLS and neural network related resources.
 
 ## Papers:
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
