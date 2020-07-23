@@ -2,7 +2,6 @@
 A collection of URLs related to High Level Synthesis (HLS). Please let me know interesting open source projects, books, or papers, which are not included in this list. Also please feel free to report any broken URL links.
 
 ## Books:
-- [High-Level Synthesis Blue Book](https://www.eet.bme.hu/~timar/data/hls_bluebook_uv.pdf)
 - [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648) [[Chinese](https://github.com/xupsh/pp4fpgas-cn)] [[Code](https://github.com/KastnerRG/pp4fpgas)]
 - [The Zynq Book](http://www.zynqbook.com/)
 
