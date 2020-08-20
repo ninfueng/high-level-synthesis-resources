@@ -1,5 +1,5 @@
 # High Level Synthesis Resources
-A collection of URLs related to High Level Synthesis (HLS). Please let me know interesting open source projects, books, or papers, which are not included in this list. Also please feel free to report any broken URL links.
+A collection of URLs related to High Level Synthesis (HLS). I will add more links if I find interesting resources. Please let me know interesting open source projects, books, or others, which are not included in this list. Also please feel free to report any broken URL links.
 
 ## Books:
 - [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648) [[Chinese](https://github.com/xupsh/pp4fpgas-cn)] [[Code](https://github.com/KastnerRG/pp4fpgas)]
