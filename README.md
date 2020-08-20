@@ -9,6 +9,9 @@ A collection of URLs related to High Level Synthesis (HLS). Please let me know i
 - [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf) [[Code](https://github.com/spcl/gemm_hls)]
 - [hlslib: Software Engineering for Hardware Design](https://arxiv.org/pdf/1910.04436.pdf) [[Code](https://github.com/definelicht/hlslib)]
 
+## Slices:
+- [High-Level Synthesis with Vivado HLS](http://home.mit.bme.hu/~szanto/education/vimima15/heterogen_xilinx_hls.pdf)
+
 # Neural network related
 Below are sections for HLS and neural network related resources.
 
