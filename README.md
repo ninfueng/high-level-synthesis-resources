@@ -18,7 +18,7 @@ Below are sections for HLS and neural network related resources.
 ## Papers:
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
 
-## Interesting Github projects:
+## Interesting open source projects:
 - [ZynqNet](https://github.com/dgschwend/zynqnet): An FPGA-Accelerated Embedded Convolutional Neural Network
 - [GUINNESS](https://github.com/HirokiNakahara/GUINNESS): A <b>GUI</b> based binarized <b>N</b>eural <b>NE</b>twork <b>S</b>ynthe<b>S</b>izer toward an FPGA
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board
