@@ -26,8 +26,7 @@ Below are sections for HLS and neural network related resources.
 - [finn-hlslib](https://github.com/Xilinx/finn-hlslib): HLS library for hardware acceleration of Quantized Neural Network (QNN) using FINN.
 - [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml): A Python module from conventing deep learning modules into HLS format.
 - [RFNoC-HLS-NeuralNet](https://github.com/Xilinx/RFNoC-HLS-NeuralNet): Using hls4ml to implement the neural network inference in FPGA fabric for RF signal processing.
-
-
+- [lenet5_hls](https://github.com/changwoolee/lenet5_hls): LeNet-5 implementation with SDSoC.
 
 ### Xilinx PYNQ projects:
 - [pp4fpgas-cn-hls](https://github.com/xupsh/pp4fpgas-cn-hls): HLS Project for pp4fpgas-cn running on Pynq-Z1/Z2 board
