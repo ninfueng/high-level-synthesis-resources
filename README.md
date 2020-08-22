@@ -13,7 +13,7 @@ A collection of URLs related to High Level Synthesis (HLS). I will add more link
 - [High-Level Synthesis with Vivado HLS](http://home.mit.bme.hu/~szanto/education/vimima15/heterogen_xilinx_hls.pdf)
 
 # Neural network related
-Below are sections for HLS and neural network related resources.
+Below are sections for resources relates to HLS implemention of neural network.
 
 ## Papers:
 - [SkyNet: A Champion Model for DAC-SDC on Low Power Object Detection](https://arxiv.org/pdf/1906.10327.pdf) [[Code](https://github.com/TomG008/SkyNet)]
