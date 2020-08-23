@@ -24,7 +24,7 @@ Below are sections for resources relates to HLS implemention of neural network.
 - [GUINNESS](https://github.com/HirokiNakahara/GUINNESS): A GUI based binarized Neural NEtwork SyntheSizer toward an FPGA.
 - [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board.
 - [FPGA_AI_Edge_Contest_2019](https://github.com/HirokiNakahara/FPGA_AI_Edge_Contest_2019): Sample scripts for FPGA-based AI Edge Contest 2019.
-- [finn-hlslib](https://github.com/Xilinx/finn-hlslib): HLS library for hardware acceleration of Quantized Neural Network (QNN) using FINN.
+- [finn-hlslib](https://github.com/Xilinx/finn-hlslib): HLS library for hardware acceleration of Quantized Neural Network using FINN.
 - [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml): A Python module for converting deep learning module (Tensorflow, Keras and Pytorch), to HLS format.
 - [RFNoC-HLS-NeuralNet](https://github.com/Xilinx/RFNoC-HLS-NeuralNet): Using hls4ml to implement the neural network inference in FPGA fabric for RF signal processing.
 - [lenet5_hls](https://github.com/changwoolee/lenet5_hls): LeNet-5 implementation with Xilinx SDSoC.
