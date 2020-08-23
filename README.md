@@ -28,7 +28,7 @@ Below are sections for resources relates to HLS implemention of neural network.
 - [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml): A Python module for converting deep learning module (Tensorflow, Keras and Pytorch), to HLS format.
 - [RFNoC-HLS-NeuralNet](https://github.com/Xilinx/RFNoC-HLS-NeuralNet): Using hls4ml to implement the neural network inference in FPGA fabric for RF signal processing.
 - [lenet5_hls](https://github.com/changwoolee/lenet5_hls): LeNet-5 implementation with Xilinx SDSoC.
-- [yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga)
+- [yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga): 
 
 ### Xilinx PYNQ projects:
 - [pp4fpgas-cn-hls](https://github.com/xupsh/pp4fpgas-cn-hls): HLS Project for pp4fpgas-cn running on Pynq-Z1/Z2 board
