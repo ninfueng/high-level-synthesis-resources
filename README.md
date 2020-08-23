@@ -4,6 +4,7 @@ A collection of URLs related to High Level Synthesis (HLS). I will add more link
 ## Books:
 - [Parallel Programming for FPGAs](https://arxiv.org/abs/1805.03648) [[Chinese](https://github.com/xupsh/pp4fpgas-cn)] [[Code](https://github.com/KastnerRG/pp4fpgas)]
 - [The Zynq Book](http://www.zynqbook.com/)
+- [Vivado Design Suite User Guide: High-Level Synthesis](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2020_1/ug902-vivado-high-level-synthesis.pdf)
 
 ## Papers:
 - [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf) [[Code](https://github.com/spcl/gemm_hls)]
