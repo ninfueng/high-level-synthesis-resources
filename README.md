@@ -12,6 +12,8 @@ A collection of URLs related to High Level Synthesis (HLS). I will add more link
 
 ## Slices:
 - [High-Level Synthesis with Vivado HLS](http://home.mit.bme.hu/~szanto/education/vimima15/heterogen_xilinx_hls.pdf): 152 pages presentation slices relates to overall HLS concepts.
+- [Vivado HLS –Tips and Tricks](https://www.xilinx.com/publications/events/developer-forum/2018-frankfurt/hls-tips-and-tricks.pdf)
+
 
 # Neural network related
 Below are sections for resources relates to HLS implemention of neural network.
