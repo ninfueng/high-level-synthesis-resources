@@ -25,14 +25,20 @@ Below are sections for resources relates to HLS implemention of neural network.
 ## Interesting open source projects:
 - [ZynqNet](https://github.com/dgschwend/zynqnet): An FPGA-Accelerated Embedded Convolutional Neural Network.
 - [GUINNESS](https://github.com/HirokiNakahara/GUINNESS): A GUI based binarized Neural NEtwork SyntheSizer toward an FPGA.
-- [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board.
 - [FPGA_AI_Edge_Contest_2019](https://github.com/HirokiNakahara/FPGA_AI_Edge_Contest_2019): Sample scripts for FPGA-based AI Edge Contest 2019.
 - [finn-hlslib](https://github.com/Xilinx/finn-hlslib): HLS library for hardware acceleration of Quantized Neural Network using FINN.
 - [hls4ml](https://github.com/hls-fpga-machine-learning/hls4ml): A Python module for converting deep learning module (Tensorflow, Keras and Pytorch), to HLS format.
 - [RFNoC-HLS-NeuralNet](https://github.com/Xilinx/RFNoC-HLS-NeuralNet): Using hls4ml to implement the neural network inference in FPGA fabric for RF signal processing.
 - [lenet5_hls](https://github.com/changwoolee/lenet5_hls): LeNet-5 implementation with Xilinx SDSoC.
 - [yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga):
+- [AccDNN](https://github.com/IBM/AccDNN): Converter of the Caffe trained deep neural network to the FPGA RTL level implementation
 - [A-convolution-kernel-implemented-by-Vivado-HLS](https://github.com/lirui-shanghaitech/A-convolution-kernel-implemented-by-Vivado-HLS)
+
+### DAC Conference System Design Competition 
+- [iSmartDNN](https://github.com/onioncc/iSmartDNN): Light-weighted neural network inference for object detection on small-scale FPGA board.
+- [XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)
+- [spooNN](https://github.com/fpgasystems/spooNN)
+- [SkyNet](https://github.com/TomG008/SkyNet) SkyNet, a new hardware-efficient DNN specialized in object detection and tracking.
 
 ### Xilinx PYNQ projects:
 - [pp4fpgas-cn-hls](https://github.com/xupsh/pp4fpgas-cn-hls): HLS Project for pp4fpgas-cn running on Pynq-Z1/Z2 board
