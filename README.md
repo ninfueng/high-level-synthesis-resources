@@ -23,6 +23,7 @@ https://www.so-logic.net/documents/upload/Basic_HLS_Tutorial.pdf
 https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_h2rc116s1-file1.pdf
 https://link.springer.com/article/10.1007/s10470-020-01638-5#Sec16
 http://vast.cs.ucla.edu/~peipei/papers/2017dac_bandwidth.pdf
+https://roberttlange.github.io/posts/2020/06/lottery-ticket-hypothesis/
 --->
 
 ## Slices:
