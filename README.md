@@ -11,6 +11,7 @@ A collection of URLs related to High Level Synthesis (HLS). I will add more link
 - [Flexible Communication Avoiding Matrix Multiplicationon FPGA with High-Level Synthesis](https://spcl.inf.ethz.ch/Publications/.pdf/gemm-fpga.pdf) [[Code](https://github.com/spcl/gemm_hls)]
 - [hlslib: Software Engineering for Hardware Design](https://arxiv.org/pdf/1910.04436.pdf) [[Code](https://github.com/definelicht/hlslib)]
 - [On the HLS Design of Bit-Level Operations and CustomData Types](https://www.research.manchester.ac.uk/portal/files/58273133/FSP2017.pdf)
+- [High-level synthesis and arithmetic optimizations](https://hal.archives-ouvertes.fr/tel-02420901v2/document): Doctoral thesis on HLS and float datatype optimization.
 
 ## Slices:
 - [High-Level Synthesis with Vivado HLS](http://home.mit.bme.hu/~szanto/education/vimima15/heterogen_xilinx_hls.pdf): 152 pages presentation slices relates to overall HLS concepts.
