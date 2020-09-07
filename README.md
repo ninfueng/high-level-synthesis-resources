@@ -17,6 +17,12 @@ A collection of URLs related to High Level Synthesis (HLS). I will add more link
 [test](https://highlevel-synthesis.com/2017/05/24/sparse-matrix-vector-multiplication-spmv/)
 https://github.com/xupsh/pp4fpgas-cn/blob/master/06-Sparse-Matrix-Vector-Multiplication.md 
 https://github.com/KastnerRG/Spector-HLS
+https://pure.tue.nl/ws/files/46944903/855333-1.pdf
+https://arxiv.org/pdf/2004.03640.pdf
+https://www.so-logic.net/documents/upload/Basic_HLS_Tutorial.pdf
+https://sc19.supercomputing.org/proceedings/workshops/workshop_files/ws_h2rc116s1-file1.pdf
+https://link.springer.com/article/10.1007/s10470-020-01638-5#Sec16
+http://vast.cs.ucla.edu/~peipei/papers/2017dac_bandwidth.pdf
 --->
 
 ## Slices:
