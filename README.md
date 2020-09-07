@@ -13,9 +13,11 @@ A collection of URLs related to High Level Synthesis (HLS). I will add more link
 - [On the HLS Design of Bit-Level Operations and CustomData Types](https://www.research.manchester.ac.uk/portal/files/58273133/FSP2017.pdf)
 ## Thesis:
 - [High-level synthesis and arithmetic optimizations](https://hal.archives-ouvertes.fr/tel-02420901v2/document): Doctoral thesis on HLS and float datatype optimization.
-<--- [test](https://highlevel-synthesis.com/2017/05/24/sparse-matrix-vector-multiplication-spmv/)
-<--- https://highlevel-synthesis.com/2017/05/24/sparse-matrix-vector-multiplication-spmv/
-<--- https://github.com/xupsh/pp4fpgas-cn/blob/master/06-Sparse-Matrix-Vector-Multiplication.md
+<!--- 
+[test](https://highlevel-synthesis.com/2017/05/24/sparse-matrix-vector-multiplication-spmv/)
+https://github.com/xupsh/pp4fpgas-cn/blob/master/06-Sparse-Matrix-Vector-Multiplication.md 
+https://github.com/KastnerRG/Spector-HLS
+--->
 
 ## Slices:
 - [High-Level Synthesis with Vivado HLS](http://home.mit.bme.hu/~szanto/education/vimima15/heterogen_xilinx_hls.pdf): 152 pages presentation slices relates to overview of HLS.
